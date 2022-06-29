@@ -1,4 +1,4 @@
-# mern-crud-project
+# mini-mern-project
 Full project MERN
 
 ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
