@@ -3,7 +3,6 @@ const MongoClient = require('mongodb').MongoClient, Server = require('mongodb').
 const uri = "mongodb://localhost:27017/";
 const client = new MongoClient(uri);
 const app = express();
-
 let animals = []
 
 async function run() {
